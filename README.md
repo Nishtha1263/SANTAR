@@ -1,5 +1,5 @@
 # SANTAR
-Swimming Assessment using Numerical daTa Analytics and Representation
+Swimming Assessment using Numerical daTa Analytics and visual Representation
 
 This repository includes the following things:
 1. The code I used to extract data from the FINA website.
